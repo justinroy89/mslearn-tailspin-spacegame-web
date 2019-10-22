@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/justinsroy4268/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/justinroy89.mslearn-tailspin-spacegame-web%20(2)?branchName=master)](https://dev.azure.com/justinsroy4268/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
